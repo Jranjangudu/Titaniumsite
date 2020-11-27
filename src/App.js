@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+//Bootstrap location
+import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
+import "./App.css";
+import Footers from "./Footers";
+import Menus from "./Menus";
+import Offerss from "./Offerss";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ width: "100%" }}>
+      <Menus />
+      <Offerss />
+      <Footers />
     </div>
   );
 }

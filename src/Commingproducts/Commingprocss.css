@@ -1,0 +1,7 @@
+.itemhover:hover {
+  transform: translateY(-8px);
+  cursor: pointer;
+}
+.itemhover {
+  transition: all 0.5s ease-in;
+}

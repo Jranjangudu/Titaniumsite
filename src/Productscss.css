@@ -1,0 +1,11 @@
+.col-md-2 > ul > li {
+  margin: 10px 0;
+  padding-left: 10px;
+  list-style: none;
+  font-size: 18px;
+}
+.col-md-2 {
+  max-height: 200vh;
+  overflow: auto;
+  scroll-behavior: smooth;
+}
