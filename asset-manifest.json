@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Titaniumsite/static/css/main.3b0fd64b.chunk.css",
+    "main.js": "/Titaniumsite/static/js/main.665fdb70.chunk.js",
+    "main.js.map": "/Titaniumsite/static/js/main.665fdb70.chunk.js.map",
+    "runtime-main.js": "/Titaniumsite/static/js/runtime-main.7d45e82c.js",
+    "runtime-main.js.map": "/Titaniumsite/static/js/runtime-main.7d45e82c.js.map",
+    "static/css/2.05d8b2b0.chunk.css": "/Titaniumsite/static/css/2.05d8b2b0.chunk.css",
+    "static/js/2.8f6d2a64.chunk.js": "/Titaniumsite/static/js/2.8f6d2a64.chunk.js",
+    "static/js/2.8f6d2a64.chunk.js.map": "/Titaniumsite/static/js/2.8f6d2a64.chunk.js.map",
+    "index.html": "/Titaniumsite/index.html",
+    "static/css/2.05d8b2b0.chunk.css.map": "/Titaniumsite/static/css/2.05d8b2b0.chunk.css.map",
+    "static/css/main.3b0fd64b.chunk.css.map": "/Titaniumsite/static/css/main.3b0fd64b.chunk.css.map",
+    "static/js/2.8f6d2a64.chunk.js.LICENSE.txt": "/Titaniumsite/static/js/2.8f6d2a64.chunk.js.LICENSE.txt",
+    "static/media/Ladu_Lalit.62d7e8be.mp4": "/Titaniumsite/static/media/Ladu_Lalit.62d7e8be.mp4",
+    "static/media/Mr.Developer.d055c941.jpg": "/Titaniumsite/static/media/Mr.Developer.d055c941.jpg",
+    "static/media/Oneplus.a7b520df.gif": "/Titaniumsite/static/media/Oneplus.a7b520df.gif",
+    "static/media/Redmi.1526bc85.gif": "/Titaniumsite/static/media/Redmi.1526bc85.gif",
+    "static/media/banner1.72cb7319.jpg": "/Titaniumsite/static/media/banner1.72cb7319.jpg",
+    "static/media/banner2.4cdb9190.jpg": "/Titaniumsite/static/media/banner2.4cdb9190.jpg",
+    "static/media/banner3.8c8b22f9.jpg": "/Titaniumsite/static/media/banner3.8c8b22f9.jpg",
+    "static/media/banner4.e55aaf9b.jpg": "/Titaniumsite/static/media/banner4.e55aaf9b.jpg",
+    "static/media/exclusive.88481f62.png": "/Titaniumsite/static/media/exclusive.88481f62.png",
+    "static/media/product1.8c2c607f.png": "/Titaniumsite/static/media/product1.8c2c607f.png",
+    "static/media/product2.ede4cfce.png": "/Titaniumsite/static/media/product2.ede4cfce.png",
+    "static/media/product6.e9be268e.png": "/Titaniumsite/static/media/product6.e9be268e.png",
+    "static/media/product7.7fb7a08a.png": "/Titaniumsite/static/media/product7.7fb7a08a.png",
+    "static/media/product8.c358f2ff.png": "/Titaniumsite/static/media/product8.c358f2ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d45e82c.js",
+    "static/css/2.05d8b2b0.chunk.css",
+    "static/js/2.8f6d2a64.chunk.js",
+    "static/css/main.3b0fd64b.chunk.css",
+    "static/js/main.665fdb70.chunk.js"
+  ]
+}
